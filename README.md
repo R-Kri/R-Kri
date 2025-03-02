@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubrangso Kri</h1>
-<h3 align="center">🚀 I'm an undergraduate student passionate about learning and exploring</h3>
+<h3 >🚀 I'm an undergraduate student passionate about learning and exploring</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
