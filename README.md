@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Solving DSA problems in JAVA.
+- 👨‍💻 Solving DSA problems.
 
 
 <h3 align="left">Connect with me:</h3>
