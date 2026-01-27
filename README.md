@@ -1,64 +1,62 @@
-<h1 align="center">Hi 👋, I'm Rubrangso Kri</h1>
-<h3 align="center">🚀 Undergraduate passionate about full-stack development and problem-solving</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1B9FFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubrangso+Kri;Full-Stack+Developer;Backend+Engineer+(Node.js+%26+Go)" />
+</h1>
 
----
-
-- 🌱 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
-- 💻 Actively solving DSA (Data Structures and Algorithms) problems
-- ✨ Exploring modern web technologies
-
----
-
-<h3 align="left">👔 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rubrangsokri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rubrangso Kri LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- Add other icons as necessary -->
-</p>
-
----
-
-<!-- Language and stats cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Kri&show_icons=true&locale=en&layout=compact&hide=python" alt="Top Langs" height="150"/> 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Kri&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Kri&" alt="GitHub Streak"/>
+  🚀 Backend-focused full-stack developer building scalable, real-time systems
 </p>
 
----
+## About Me
+- Backend engineering with **Node.js (TypeScript)** & **Go**
+- Practicing **DSA in Java** + system design  
+- Focus on **high performance, real-time, production-grade systems**
+- Email: **rubrangsokri07@gmail.com**
+
+## Tech Stack
+
+### Languages
+<p><img src="https://skillicons.dev/icons?i=js,ts,go,java" /></p>
+
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p>
+
+### Backend
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,postgres" /></p>
+
+### Tools & DevOps
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,linux" /></p>
+
+## What I'm Learning
+- Go for backend  
+- Real-time systems (**Socket.io, WebSockets**)  
+- High-performance database design  
+- Distributed systems & system design fundamentals  
+
+## Connect With Me
+<p>
+  <a href="https://linkedin.com/in/rubrangsokri" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:rubrangsokri07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
+
+## GitHub Stats 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Kri&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R-Kri&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R-Kri&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=R-Kri&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R-Kri&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center"><i>“If it works, I don’t touch it. If it doesn’t work, I still don’t touch it.”</i></p>
