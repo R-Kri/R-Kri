@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1B9FFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubrangso+Kri;Full-Stack+Developer;Backend+Engineer+(Node.js+%26+Go)" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1B9FFF&center=true&vCenter=true&width=500&lines=Hi%20👋,%20I'm%20Rubrangso%20Kri;Full-Stack%20Developer;Backend%20Engineer%20(Node.js)" />
 </h1>
+
+
 
 <p align="center">
   🚀 Backend-focused full-stack developer building scalable, real-time systems
