@@ -17,7 +17,7 @@
 ## Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=js,ts,go,java" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,java" /></p>
 
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p>
