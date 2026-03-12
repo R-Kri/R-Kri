@@ -9,8 +9,8 @@
 </p>
 
 ## About Me
-- Backend engineering with **Node.js (TypeScript)** & **Go**
-- Practicing **DSA in Java** + system design  
+- Backend engineering with **Node.js (TypeScript)**
+- Practicing DSA + system design  
 - Focus on **high performance, real-time, production-grade systems**
 - Email: **rubrangsokri07@gmail.com**
 
@@ -29,7 +29,7 @@
 <p><img src="https://skillicons.dev/icons?i=docker,git,github,linux" /></p>
 
 ## What I'm Learning
-- Go for backend  
+- Node for backend  
 - Real-time systems (**Socket.io, WebSockets**)  
 - High-performance database design  
 - Distributed systems & system design fundamentals  
